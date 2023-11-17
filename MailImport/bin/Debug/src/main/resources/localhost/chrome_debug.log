@@ -1,0 +1,9 @@
+[28760:26052:1115/112257.268:WARNING:chrome_main_delegate.cc(660)] This is Chrome version 119.0.6045.124 (not a warning)
+[28760:26052:1115/112257.308:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(168) Starting CBCM Controller Initialization
+[28760:26052:1115/112257.308:INFO:policy_logger.cc(145)] :components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc(196) No machine level policy manager exists.
+[28760:26052:1115/112312.272:WARNING:controller_impl.cc(1190)] Background download complete, client: 6, completion type: 0, file size:5088
+[28760:26052:1115/112312.955:WARNING:controller_impl.cc(1190)] Background download complete, client: 6, completion type: 0, file size:883094
+[28760:26052:1115/112313.199:WARNING:controller_impl.cc(1190)] Background download complete, client: 6, completion type: 0, file size:45125
+[28760:26052:1115/112315.204:WARNING:controller_impl.cc(1190)] Background download complete, client: 6, completion type: 0, file size:2746900
+[28760:26052:1115/112315.404:WARNING:controller_impl.cc(1190)] Background download complete, client: 6, completion type: 0, file size:33994661
+[28760:26052:1115/152840.789:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
